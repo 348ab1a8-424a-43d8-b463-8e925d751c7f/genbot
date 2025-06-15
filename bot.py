@@ -8,7 +8,7 @@ from cogs import list_cogs
 
 # Logger Configuration
 logging.basicConfig(
-    level=logging.INFO,  # You can use DEBUG for more details
+    level=logging.INFO,  # DEBUG for more details
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
     handlers=[
         logging.FileHandler("bot.log"),     # Writes to a file
