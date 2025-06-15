@@ -5,8 +5,8 @@
          width="200"
          style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2); border-radius: 12px;">
   </a>
-  <h1>Python Discord Bot - 07cab3d6-0d7d</h1>
-  <p>General Purpose Discord Bot.</p>
+  <h1>07cab3d6-0d7d</h1>
+  <p>A personal multi-purpose Discord bot built with Python, designed for general utilities, slash commands, and modular functionality.</p>
 </div>
 
 ## Table of Contents
