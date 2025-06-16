@@ -18,7 +18,7 @@ class Misc(commands.Cog):
          + " For more information, visit https://jto.dev/docs/project-docs/07cab3d6-0d7d/")
 
     @discord.app_commands.command(name="luan", description="Who the hell is he?")
-    async def luan(self, intereaction: discord.Interaction):
+    async def luan(self, interaction: discord.Interaction):
         await interaction.response.send_message(f"He's a sexy motherf*cker.")
 
 async def setup(bot):
