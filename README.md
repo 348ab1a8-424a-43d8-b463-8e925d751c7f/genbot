@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jto.dev">
-    <img src="assets/07cab3d6-0d7d.png"
+    <img src="assets/genbot.png"
          alt="07cab3d6-0d7d.png" 
          width="200"
          style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2); border-radius: 12px;">
